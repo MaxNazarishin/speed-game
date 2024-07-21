@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\Макс\Desktop\15.02.2024_HW\15.02.2024_HW\FileName.cpp(15,9): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\Макс\Desktop\15.02.2024_HW\15.02.2024_HW\FileName.cpp(38,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Макс\Desktop\15.02.2024_HW\15.02.2024_HW\FileName.cpp(188,12): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  15.02.2024_HW.vcxproj -> C:\Users\Макс\Desktop\15.02.2024_HW\x64\Debug\15.02.2024_HW.exe
